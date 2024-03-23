@@ -1,0 +1,39 @@
+
+.task-book {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #6DFFE7;
+    justify-content: center;
+
+}
+.dat-dich-vu {
+    text-align: center;
+}
+.option {
+    justify-content: center;
+    align-items: center;
+    margin: 3%;
+}
+.option1 {
+    width: 150%;
+    height: 100%;
+}
+.option2 {
+    width: 150%;
+    height: 100%;
+}
+.option3 {
+    width: 150%;
+    height: 100%;
+}
+.option4 {
+    width: 150%;
+    height: 100%;
+}
+.submit_book {
+    width: 150%;
+    height: auto;
+    margin: 0 10%;
+}
+

@@ -1,0 +1,16 @@
+
+/* css homepage */
+.box{
+    background-image: url(https://phunugioi.com/wp-content/uploads/2021/07/Canh-dep-nhu-mo-thien-nhien-Viet-Nam-Cao-Bang.jpg);
+    padding: 16em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.box .text{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 3em;
+    font-weight: 900;
+    font-family: 'Inter', sans-serif;
+}

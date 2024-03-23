@@ -1,0 +1,40 @@
+#menu ul{
+    background: #55BEC0;
+    list-style-type: none;
+    float: none;
+    /* padding-bottom: 5px; */
+
+}
+#menu ul li{
+    color: #f1f1f1;
+    display: inline-block;
+    width: 150px;
+    height: 45px;
+}
+#menu ul li a{
+    text-decoration: none;
+    color: #222;
+    display: block;
+    font-weight: bold;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+    /* margin: 0 30px;
+    padding: 6px; */
+}
+#menu ul li a:hover{
+    background: #F1F1F1;
+    color: #0C0A0A;
+}
+.anhmenu {
+    margin-top: 5px;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+    display: block;
+    float: left;
+} 
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
